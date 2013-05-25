@@ -20,8 +20,9 @@ Files:
   Node.java
   UnionFind.java
   
-Project 2 - Number Partition
-============================
+  
+Project 2 - Number Partition I
+==============================
 Goal: 
   Number Partition is a NP-Complete problem, but we can be solved in 
   pseudopolynomial time. Our goal is to try two different approaches
@@ -33,6 +34,23 @@ Files:
   NumberPartition.java
   CMP.java
   
-
+  
+Project 3 - Number Partition II
+==============================
+Goal: 
+  Revisiting the Number Partition problem in project 2, this time 
+  using local search heuristics to solve the problem. Try three
+  different local search heruistics to solve the problem. First
+  approach, we use repeated random. Generat k random solution to the
+  problem and return the smallest residue. Second approach, we use
+  gradient descent. Third approach, we use simulated annealing.
+  Comparing these three approaches with the two approaches used in 
+  project 2. 
+  
+Files:
+  NumberPartition2.java
+  CMP_Irregular.java
+  CMP_Regular.java
+  
 
 
