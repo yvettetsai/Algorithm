@@ -4,7 +4,7 @@ CS330-Algorithm
 This repository contains some popular algorithm's implementation in Java.
 
 
-Project 1
+Project 1 - MST
 ===============
 Goal: 
   To determine how the average weight of the minimum spanning tree 
@@ -20,3 +20,8 @@ Files:
   Node.java
   UnionFind.java
   
+Project 2 - Number Partition
+============================
+Goal:
+
+
