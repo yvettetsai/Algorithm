@@ -22,6 +22,17 @@ Files:
   
 Project 2 - Number Partition
 ============================
-Goal:
+Goal: 
+  Number Partition is a NP-Complete problem, but we can be solved in 
+  pseudopolynomial time. Our goal is to try two different approaches
+  to solve the problem. First approach is to use dynamic programming.
+  Second approach is to use Karmarkar-Karp algorithm, a deterministic 
+  heuristic. 
+  
+Files:
+  NumberPartition.java
+  CMP.java
+  
+
 
 
